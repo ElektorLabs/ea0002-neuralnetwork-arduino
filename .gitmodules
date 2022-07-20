@@ -1,0 +1,3 @@
+[submodule "simple-neural-network"]
+	path = simple-neural-network
+	url = https://github.com/codinghead/simple-neural-network.git
